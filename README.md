@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Breiner MArtinez</h1>
 <h3 align="center">A passionate back-end developer from Colombia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.18a4949fc9c8067172d3b96e302e7097?rik=%2fLZCQFlB6A7KlQ&pid=ImgRaw&r=0">
 <!--Solo hacer cambios en el contenido de abajo-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breynersmartinez&label=Profile%20views&color=0e75b6&style=flat" alt="breynersmartinez" /> </p>
